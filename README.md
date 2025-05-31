@@ -14,7 +14,13 @@
   <li><a href="https://duniastreaming.site/" target="_blank">https://duniastreaming.site/</a></li>
 </ul>
 
-<h3>Download APK Duniastreaming</h3>
+<h3>📲 Download APK Duniastreaming</h3>
 
 <p>Unduh aplikasi resmi melalui tautan berikut:</p>
 <p><a href="https://duniastreaming.shop/" target="_blank"><strong>https://duniastreaming.shop/</strong></a></p>
+
+<hr>
+
+<p><strong>🔐 Tidak bisa mengakses situs?</strong></p>
+<p>Jika salah satu situs di atas tidak dapat diakses, silakan instal <strong>Cloudflare WARP</strong> untuk membuka blokir akses.</p>
+<p>Unduh gratis di: <a href="https://one.one.one.one/id-ID/" target="_blank"><strong>https://one.one.one.one/id-ID/</strong></a></p>
